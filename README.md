@@ -9,7 +9,7 @@ If you think this work is useful to you, please cite our work as:
   ```latex
     @inproceedings{qian2015smartstealing,
       title={SmartStealing: Analysis and Optimization of Work Stealing in Parallel Garbage Collection for Java VM},
-      author={Junjie Qian and Witawas Srisa-An and Du Li and Hong Jiang and Sharad Seth and Yaodong Yang},
+      author={Qian, Junjie and Srisa-An, Witawas and Li, Du and Jiang, Hong and Seth, Sharad and Yang, Yaodong},
       booktitle={Proceedings of the 2015 International Conference on Principles and Practices of Programming on the Java platform: Virtual machines, Languages, and Tools},
       year={2015},
       organization={ACM}
